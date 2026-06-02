@@ -1,5 +1,4 @@
 ---
-
 title: "No-go theorem for quantum realization of extremal correlations"
 collection: publications
 category: manuscripts
@@ -9,13 +8,13 @@ date: 2025-09-18
 venue: "arXiv Preprint"
 paperurl: "https://arxiv.org/abs/2509.14879"
 citation: 'Sujan V.K., Ravi Kunjwal. "No-go theorem for quantum realization of extremal correlations." arXiv:2509.14879 (2025).'
---------------------------------------------------------------------------------------------------------------------------------
+---
 
 **Authors:** Sujan V.K., Ravi Kunjwal
 
 This work studies the quantum realization of extremal correlations in arbitrary contextuality scenarios. We prove that no extremal indeterministic correlation can be achieved using projective quantum measurements and establish a more general no-go theorem that extends to the most general quantum measurements (POVMs).
 
-**Links**
+## Links
 
-* [arXiv Abstract](https://arxiv.org/abs/2509.14879)
-* [PDF](https://arxiv.org/pdf/2509.14879.pdf)
+- [arXiv Abstract](https://arxiv.org/abs/2509.14879)
+- [PDF](https://arxiv.org/pdf/2509.14879.pdf)
