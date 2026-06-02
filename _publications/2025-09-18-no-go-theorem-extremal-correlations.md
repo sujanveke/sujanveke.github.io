@@ -1,6 +1,6 @@
 ---
 title: "No-go theorem for quantum realization of extremal correlations"
-collection: publications
+collection: preprints
 category: manuscripts
 permalink: /publication/no-go-theorem-for-quantum-realization-of-extremal-correlations
 excerpt: "We prove a general no-go theorem showing that extremal indeterministic correlations admit no non-trivial quantum realization."
