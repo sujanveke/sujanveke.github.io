@@ -150,9 +150,10 @@ og_description           :  "Sujan V K's personal academic and project portfolio
 social:
   type                   : Person
   name                   : Sujan V.K
-  links: - https://github.com/sujanveke
-         - https://www.linkedin.com/in/sujan-v-k-626090268/
-         - https://scholar.google.com/citations?hl=en&user=TOAuj8YAAAAJ
+  links:
+    - https://github.com/sujanveke
+    - https://www.linkedin.com/in/sujan-v-k-626090268/
+    - https://scholar.google.com/citations?hl=en&user=TOAuj8YAAAAJ
 
 
 # Analytics
