@@ -1,13 +1,12 @@
 ---
 title: "No-go theorem for quantum realization of extremal correlations"
-collection: preprints
-category: manuscripts
+collection: publications
+category: preprints
 permalink: /publication/no-go-theorem-for-quantum-realization-of-extremal-correlations
 excerpt: "We prove a general no-go theorem showing that extremal indeterministic correlations admit no non-trivial quantum realization."
 date: 2025-09-18
 venue: "arXiv Preprint"
 paperurl: "https://arxiv.org/abs/2509.14879"
-citation: 'Sujan V.K., Ravi Kunjwal. "No-go theorem for quantum realization of extremal correlations." arXiv:2509.14879 (2025).'
 ---
 
 **Authors:** Sujan V.K., Ravi Kunjwal
