@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Sujan V.K"
 title_separator          : "-"
 name                     : &name "Sujan V.K"
@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Master thesis student"
   location         : "India"
-  employer         : "Red Brick University"
+  employer         : "Indian Institute of Science Education and Research, Pune"
   uri              : # URL
   email            : "sujan.v_k@students.iiserpune.ac.in" 
 
